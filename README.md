@@ -5,7 +5,7 @@ A modern and responsive developer portfolio website built with React and Vite to
 
 ## 🌐 Live Website
 
-🔗 [https://kavita-bande.vercel.app/](vercel)
+🔗 (https://kavita-bande.vercel.app/)[vercel]
 
 ## ✨ Features
 
@@ -60,7 +60,7 @@ src
 
 Clone the repository:
 
-```git clone [https://github.com/kavita-bande2006/portfolio.git](https://github.com/kavita-bande2006/portfolio.git)```
+```git clone [https://github.com/kavita-bande2006/portfolio.git]```
 
 Navigate to the project directory:
 
@@ -76,7 +76,7 @@ Start the development server:
 
 Open in browser:
 
-```[http://localhost:5173/](http://localhost:5173/)```
+```[http://localhost:5173/]```
 
 ## 👩‍💻 About Me
 
