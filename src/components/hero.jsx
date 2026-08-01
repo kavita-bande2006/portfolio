@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Terminal from "./Terminal";
+import Terminal from "./terminal";
 
 const Hero = () => {
   return (
