@@ -5,7 +5,7 @@ A modern and responsive developer portfolio website built with React and Vite to
 
 ## 🌐 Live Website
 
-🔗 vercel(https://kavita-bande.vercel.app/)
+🔗 https://kavita-bande.vercel.app/
 
 ## ✨ Features
 
